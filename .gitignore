@@ -1,0 +1,4 @@
+node_modules
+cron.log
+data.*
+.env
